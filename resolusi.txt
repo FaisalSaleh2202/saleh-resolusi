@@ -1,4 +1,6 @@
 a resolusi saleh 
 - english
 - C++
-- deepdive web
+  ^ OOP
+  ^ Fundamental
+- Full web
