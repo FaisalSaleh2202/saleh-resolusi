@@ -4,4 +4,3 @@ a resolusi saleh
   ^ OOP
   ^ Fundamental
 - Full web
--
