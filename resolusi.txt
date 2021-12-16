@@ -1,5 +1,5 @@
 a resolusi saleh 
-- b
--
--
+- english
+- C++
+- Full web
 -
