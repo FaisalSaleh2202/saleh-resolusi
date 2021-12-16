@@ -1,5 +1,7 @@
 a resolusi saleh 
 - english
 - C++
+  ^ OOP
+  ^ Fundamental
 - Full web
 -
