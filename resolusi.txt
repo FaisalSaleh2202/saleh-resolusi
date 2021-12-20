@@ -3,4 +3,5 @@ a resolusi saleh
 - C++
   ^ OOP
   ^ Fundamental
+  ^ Algoritma dan struktur data
 - Full web
